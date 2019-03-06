@@ -20,7 +20,7 @@ Its currently 52.13. It feels like 52.13.
 King County
 Its currently 34.71. It feels like 34.71.
 
-## Run promise app
+## Run Promise app
 
 > node app-promise.js -a 4989266
 Coldwater
